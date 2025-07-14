@@ -2,7 +2,7 @@
 
 ## Presentation Overview
 
-This repository contains resources for the conference presentation "Same Threats - New Vectors: OWASP Top 10 for LLMs" delivered at AI in Production and Sloss.tech/dev conferences.
+This repository contains resources for the conference presentation "Same Threats - New Vectors: OWASP Top 10 for LLMs" delivered at AI in Production 2025.
 
 **Presenter:** David Hawthorne  
 **Website:** [davidhawthorne.com](https://davidhawthorne.com)  
